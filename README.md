@@ -1,6 +1,14 @@
 # Customer Churn Prediction
+## Overview
 
-## Project Overview
+This project focuses on predicting customer churn for a telecommunications service provider using customer subscription data. The goal is to identify which customers are likely to discontinue their service (churn) based on various demographic and behavioral features.
+
+The analysis involves utilizing a dataset containing 7,043 records and 21 features, such as customer tenure, monthly charges, and service usage patterns. By applying clustering techniques and machine learning models—like Naive Bayes, Logistic Regression, and Support Vector Machines—the project aims to develop effective strategies for customer retention based on the insights gained from the data.
+
+Key findings highlight patterns related to customer demographics, service usage, and contract types, indicating how these factors influence churn behavior. The project ultimately seeks to provide actionable recommendations to reduce churn rates and enhance customer loyalty.
+
+
+## Project Scope
 
 This project aims to predict customer churn using advanced data analysis techniques. By leveraging clustering methods and machine learning models such as Naive Bayes, Logistic Regression, and Support Vector Machine, we propose strategies for customer retention based on insights derived from the dataset.
 
